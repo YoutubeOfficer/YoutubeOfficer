@@ -50,5 +50,73 @@ MAINLY USED LANGUAGE
 <br>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-52-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 17 Bytes Used in GitHub's Storage 
+ > 
+> 🏆 14 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 5 Public Repositories 
+ > 
+> 🔑 1 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                3 commits           ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+🌆 Daytime                9 commits           ████████████░░░░░░░░░░░░░   50.00 % 
+🌃 Evening                1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+🌙 Night                  5 commits           ███████░░░░░░░░░░░░░░░░░░   27.78 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   6 commits           ████████░░░░░░░░░░░░░░░░░   33.33 % 
+Tuesday                  1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+Wednesday                4 commits           ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Friday                   2 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Saturday                 5 commits           ███████░░░░░░░░░░░░░░░░░░   27.78 % 
+Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in HTML** 
+
+```text
+HTML                     1 repo              ████████░░░░░░░░░░░░░░░░░   33.33 % 
+Python                   1 repo              ████████░░░░░░░░░░░░░░░░░   33.33 % 
+Roff                     1 repo              ████████░░░░░░░░░░░░░░░░░   33.33 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/YoutubeOfficer/YoutubeOfficer/main/assets/bar_graph.png)
+
+
+ Last Updated on 20/01/2025 09:02:57 UTC
 <!--END_SECTION:waka-->
 
