@@ -18,4 +18,4 @@ jobs:
           SHOW_OS: "True"
           SHOW_PROJECTS: "True"
           SHOW_LANGUAGE: "True"
-          DEBUG_LOGGING: "False"
+          SHOW_LOC_CHART: "False"
