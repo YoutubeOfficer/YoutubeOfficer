@@ -123,3 +123,23 @@ Roff                     1 repo              ████████░░░�
  Last Updated on 21/01/2025 03:34:46 UTC
 <!--END_SECTION:waka-->
 
+<details open="">
+<summary>
+  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
+  <strong>Git Achievement : </strong>
+</summary>
+
+<br>
+
+<p align = "center">
+    <a href="https://github.com/YoutubeOfficer/github-profile-trophy"><img src= "https://github-profile-trophy.vercel.app/?username=YoutubeOfficer&row=1&column=8">
+</p>
+
+<p align = "center">
+    <a href="https://solved.ac/dollhouse"><img src= "http://mazassumnida.wtf/api/v2/generate_badge?boj=dollhouse"> <a href="https://stackoverflow.com/users/21369153/code-johnwick">
+    <img
+      src="https://stackoverflow-card.vercel.app/?userID=21369153&theme=stackoverflow-light"
+      alt="Dumbo StackOverflow"  width="370">
+    </a>
+    </a>
+</p>
