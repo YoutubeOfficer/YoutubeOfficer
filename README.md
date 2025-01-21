@@ -37,7 +37,6 @@ MAINLY USED LANGUAGE
     <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoutubeOfficer&&theme=shadow_green" />
 </p>
 </details>
-<br/>
 
 #
 <details open="">
@@ -46,7 +45,6 @@ MAINLY USED LANGUAGE
   <strong>𝚆𝚊𝚔𝚊𝚃𝚒𝚖𝚎 𝚂𝚝𝚊𝚝𝚜 : </strong>
 </summary>
 
-<br>
 <br>
 
 <!--START_SECTION:waka-->
@@ -118,6 +116,8 @@ Roff                     1 repo              ████████░░░�
 
  Last Updated on 21/01/2025 03:39:37 UTC
 <!--END_SECTION:waka-->
+
+#
 
 <details open="">
 <summary>
