@@ -48,7 +48,7 @@ MAINLY USED LANGUAGE
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-48%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-123-blue)
 
@@ -56,11 +56,11 @@ MAINLY USED LANGUAGE
 
 > 📦 55 Bytes Used in GitHub's Storage 
  > 
-> 🏆 19 Contributions in the Year 2025
+> 🏆 18 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 5 Public Repositories 
+> 📜 4 Public Repositories 
  > 
 > 🔑 1 Private Repositories 
  > 
@@ -91,16 +91,16 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   48 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  48 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+textbook_text            48 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  48 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -114,7 +114,7 @@ Roff                     1 repo              ████████░░░�
 
 
 
- Last Updated on 21/01/2025 15:15:40 UTC
+ Last Updated on 22/01/2025 03:34:56 UTC
 <!--END_SECTION:waka-->
 
 #
