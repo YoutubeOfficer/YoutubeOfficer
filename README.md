@@ -50,11 +50,11 @@ MAINLY USED LANGUAGE
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2028%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-103-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-53-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 63 Bytes Used in GitHub's Storage 
+> 📦 64 Bytes Used in GitHub's Storage 
  > 
 > 🏆 21 Contributions in the Year 2025
  > 
@@ -117,7 +117,7 @@ Roff                     1 repo              ████████░░░�
 
 
 
- Last Updated on 02/02/2025 15:14:53 UTC
+ Last Updated on 03/02/2025 15:15:45 UTC
 <!--END_SECTION:waka-->
 
 #
