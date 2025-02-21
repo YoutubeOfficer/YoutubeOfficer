@@ -54,7 +54,7 @@ MAINLY USED LANGUAGE
 
 **🐱 My GitHub Data** 
 
-> 📦 72 Bytes Used in GitHub's Storage 
+> 📦 61 Bytes Used in GitHub's Storage 
  > 
 > 🏆 22 Contributions in the Year 2025
  > 
@@ -116,7 +116,7 @@ Roff                     1 repo              ████████░░░�
 
 
 
- Last Updated on 20/02/2025 15:16:57 UTC
+ Last Updated on 21/02/2025 15:15:43 UTC
 <!--END_SECTION:waka-->
 
 #
