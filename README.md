@@ -54,7 +54,7 @@ MAINLY USED LANGUAGE
 
 **🐱 My GitHub Data** 
 
-> 📦 62 Bytes Used in GitHub's Storage 
+> 📦 63 Bytes Used in GitHub's Storage 
  > 
 > 🏆 22 Contributions in the Year 2025
  > 
@@ -91,17 +91,16 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Python                   3 mins              ████████████████████░░░░░   78.18 % 
-JSON                     0 secs              █████░░░░░░░░░░░░░░░░░░░░   21.82 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-textbook_text            4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in HTML** 
@@ -115,7 +114,7 @@ Roff                     1 repo              ████████░░░�
 
 
 
- Last Updated on 25/02/2025 15:17:03 UTC
+ Last Updated on 26/02/2025 15:17:07 UTC
 <!--END_SECTION:waka-->
 
 #
