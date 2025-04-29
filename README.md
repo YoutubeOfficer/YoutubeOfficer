@@ -91,19 +91,16 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 2 hrs 17 mins       ███████████████████████░░   91.96 % 
-Python                   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
-Other                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 29 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-bjstudy                  1 hr 41 mins        █████████████████░░░░░░░░   67.84 % 
-textbook_text            48 mins             ████████░░░░░░░░░░░░░░░░░   32.16 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 29 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -118,7 +115,7 @@ Roff                     1 repo              ██████░░░░░�
 
 
 
- Last Updated on 28/04/2025 15:18:02 UTC
+ Last Updated on 29/04/2025 15:18:01 UTC
 <!--END_SECTION:waka-->
 
 #
