@@ -54,7 +54,7 @@ MAINLY USED LANGUAGE
 
 **🐱 My GitHub Data** 
 
-> 📦 111 Bytes Used in GitHub's Storage 
+> 📦 112 Bytes Used in GitHub's Storage 
  > 
 > 🏆 55 Contributions in the Year 2025
  > 
@@ -91,17 +91,16 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 26 mins             █████████████████████████   99.71 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  26 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-bjstudy                  26 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  26 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -116,7 +115,7 @@ Roff                     1 repo              ██████░░░░░�
 
 
 
- Last Updated on 26/05/2025 15:17:37 UTC
+ Last Updated on 27/05/2025 15:18:30 UTC
 <!--END_SECTION:waka-->
 
 #
