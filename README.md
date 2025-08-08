@@ -48,7 +48,7 @@ MAINLY USED LANGUAGE
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-109%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-110%20hrs%2020%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -91,16 +91,20 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     35 mins             ██████████████████░░░░░░░   70.67 % 
+TSConfig                 6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
+Markdown                 4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
+Git Config               3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  50 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+LiveStatute              50 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  50 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -115,7 +119,7 @@ Roff                     1 repo              ██████░░░░░�
 
 
 
- Last Updated on 07/08/2025 15:20:48 UTC
+ Last Updated on 08/08/2025 15:19:23 UTC
 <!--END_SECTION:waka-->
 
 #
