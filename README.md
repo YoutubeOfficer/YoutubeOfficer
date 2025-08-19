@@ -48,13 +48,13 @@ MAINLY USED LANGUAGE
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-110%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-110%20hrs%2044%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 367 Bytes Used in GitHub's Storage 
+> 📦 368 Bytes Used in GitHub's Storage 
  > 
 > 🏆 56 Contributions in the Year 2025
  > 
@@ -91,16 +91,20 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               12 mins             █████████████░░░░░░░░░░░░   50.47 % 
+Markdown                 8 mins              █████████░░░░░░░░░░░░░░░░   34.39 % 
+Other                    1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
+JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+Groovy                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  23 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+LiveStatute              23 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  23 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -116,7 +120,7 @@ Roff                     1 repo              █████░░░░░░�
 
 
 
- Last Updated on 18/08/2025 15:19:27 UTC
+ Last Updated on 19/08/2025 15:18:33 UTC
 <!--END_SECTION:waka-->
 
 #
