@@ -56,7 +56,7 @@ MAINLY USED LANGUAGE
 
 > 📦 146 Bytes Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
+> 🏆 53 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -91,20 +91,16 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Groovy                   44 mins             █████████████████░░░░░░░░   68.22 % 
-JSON                     16 mins             ██████░░░░░░░░░░░░░░░░░░░   24.98 % 
-Java Properties          2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
-Kotlin                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 4 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-LiveStatute              1 hr 4 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 4 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -119,7 +115,7 @@ Roff                     1 repo              ██████░░░░░�
 
 
 
- Last Updated on 02/09/2025 15:17:35 UTC
+ Last Updated on 03/09/2025 15:17:38 UTC
 <!--END_SECTION:waka-->
 
 #
