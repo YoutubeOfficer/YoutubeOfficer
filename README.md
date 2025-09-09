@@ -48,7 +48,7 @@ MAINLY USED LANGUAGE
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-114%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-115%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -56,7 +56,7 @@ MAINLY USED LANGUAGE
 
 > 📦 148 Bytes Used in GitHub's Storage 
  > 
-> 🏆 53 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -91,16 +91,21 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 53 mins             ███████████████████████░░   90.56 % 
+Text                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+TypeScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  59 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          56 mins             ████████████████████████░   95.26 % 
+LiveStatute              2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  59 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -115,7 +120,7 @@ Roff                     1 repo              ██████░░░░░�
 
 
 
- Last Updated on 08/09/2025 15:15:59 UTC
+ Last Updated on 09/09/2025 15:18:11 UTC
 <!--END_SECTION:waka-->
 
 #
