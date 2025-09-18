@@ -91,17 +91,16 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-LiveStatute              1 min               ██████████████████████░░░   87.25 % 
-Unknown Project          0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -116,7 +115,7 @@ Roff                     1 repo              ██████░░░░░�
 
 
 
- Last Updated on 17/09/2025 15:17:06 UTC
+ Last Updated on 18/09/2025 15:16:46 UTC
 <!--END_SECTION:waka-->
 
 #
