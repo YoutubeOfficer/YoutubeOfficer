@@ -64,45 +64,6 @@ MAINLY USED LANGUAGE
  > 
 > 🔑 1 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                9 commits           ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
-🌆 Daytime                25 commits          ████████████████░░░░░░░░░   62.50 % 
-🌃 Evening                1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
-🌙 Night                  5 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   6 commits           ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-Tuesday                  9 commits           ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
-Wednesday                7 commits           ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
-Thursday                 6 commits           ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-Friday                   7 commits           ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
-Saturday                 5 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -115,7 +76,7 @@ Roff                     1 repo              ██████░░░░░�
 
 
 
- Last Updated on 19/09/2025 15:16:56 UTC
+ Last Updated on 20/09/2025 15:14:32 UTC
 <!--END_SECTION:waka-->
 
 #
