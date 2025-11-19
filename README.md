@@ -49,8 +49,7 @@ MAINLY USED LANGUAGE
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-196%20hrs%2011%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-orange)
 
 **🐱 My GitHub Data** 
 
