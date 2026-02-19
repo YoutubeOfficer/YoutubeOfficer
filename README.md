@@ -33,8 +33,8 @@ MAINLY USED LANGUAGE
 <br/>
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=YoutubeOfficer&show_icons=true&theme=shadow_green"/>
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoutubeOfficer&&theme=shadow_green" />
+    <img align="center" src="https://github-stats-gray-five.vercel.app/api?username=YoutubeOfficer&show_icons=true&theme=shadow_green"/>
+    <img align="center" height="195px" src="https://github-stats-gray-five.vercel.app/api/top-langs/?username=YoutubeOfficer&&theme=shadow_green" />
 </p>
 </details>
 
