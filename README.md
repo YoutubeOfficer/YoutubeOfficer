@@ -19,12 +19,12 @@
 </summary>
 <br/>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoutubeOfficer&layout=compact&theme=shadow_green&langs_count=8"/>
-  </p>
-
-  <p align="center">
     <img src="https://github-stats-gray-five.vercel.app/api?username=YoutubeOfficer&show_icons=true&theme=shadow_green"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=YoutubeOfficer&theme=shadow_green&hide_border=false" alt="GitHub Streak"/>
+  </p>
+
+    <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoutubeOfficer&layout=compact&theme=shadow_green&langs_count=8"/>
   </p>
 </details>
 
