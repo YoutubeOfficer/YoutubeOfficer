@@ -41,6 +41,8 @@
 <br>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-603%20hrs%204%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -55,6 +57,53 @@
  > 
 > 🔑 7 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                553 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
+🌆 Daytime                2172 commits        █████████████████░░░░░░░░   66.63 % 
+🌃 Evening                373 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
+🌙 Night                  162 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   584 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
+Tuesday                  627 commits         █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
+Wednesday                563 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
+Thursday                 516 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
+Friday                   667 commits         █████░░░░░░░░░░░░░░░░░░░░   20.46 % 
+Saturday                 140 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+Sunday                   163 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+Markdown                 17 hrs 55 mins      █████████████████████░░░░   82.38 % 
+TypeScript               1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
+Vue                      40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+JSON                     22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+JavaScript               20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+
+🔥 Editors: 
+VS Code                  21 hrs 8 mins       ████████████████████████░   97.13 % 
+Claude Code              37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
+
+🐱‍💻 Projects: 
+Xconda                   16 hrs 41 mins      ███████████████████░░░░░░   76.69 % 
+xconda-fullstack         4 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   20.32 % 
+Unknown Project          35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+MCP_비즈스프링                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+
+💻 Operating System: 
+Windows                  21 hrs 45 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -68,5 +117,5 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 16:33:29 UTC
+ Last Updated on 25/07/2026 16:03:36 UTC
 <!--END_SECTION:waka-->
