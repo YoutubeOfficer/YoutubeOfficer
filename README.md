@@ -41,9 +41,9 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-574%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-579%20hrs%2038%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-294%20hrs%2040%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-299%20hrs%2016%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -51,7 +51,7 @@
 
 > 📦 69.9 kB Used in GitHub's Storage 
  > 
-> 🏆 643 Contributions in the Year 2026
+> 🏆 645 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -62,19 +62,19 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                559 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
-🌆 Daytime                2203 commits        █████████████████░░░░░░░░   66.62 % 
-🌃 Evening                383 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
+🌞 Morning                559 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
+🌆 Daytime                2205 commits        █████████████████░░░░░░░░   66.64 % 
+🌃 Evening                383 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
 🌙 Night                  162 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   588 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
-Tuesday                  641 commits         █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
-Wednesday                586 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
-Thursday                 516 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
-Friday                   673 commits         █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
+Monday                   588 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
+Tuesday                  641 commits         █████░░░░░░░░░░░░░░░░░░░░   19.37 % 
+Wednesday                586 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
+Thursday                 518 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
+Friday                   673 commits         █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
 Saturday                 140 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
 Sunday                   163 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
 ```
@@ -86,47 +86,47 @@ Sunday                   163 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 16 hrs 37 mins      ████████████████████░░░░░   80.19 % 
-TypeScript               2 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
-Vue                      1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
-YAML                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
-Other                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+Markdown                 18 hrs 18 mins      ███████████████████░░░░░░   76.47 % 
+TypeScript               2 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
+Vue                      1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+Text                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+YAML                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
 
 🔥 Editors: 
-VS Code                  20 hrs 32 mins      █████████████████████████   99.06 % 
-Claude Code              11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+VS Code                  23 hrs 35 mins      █████████████████████████   98.59 % 
+Claude Code              20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 
 🐱‍💻 Projects: 
-Xconda                   14 hrs 42 mins      ██████████████████░░░░░░░   70.92 % 
-xconda-fullstack         5 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   27.82 % 
-Unknown Project          15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+Xconda                   16 hrs 27 mins      █████████████████░░░░░░░░   68.78 % 
+xconda-fullstack         7 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   29.98 % 
+Unknown Project          17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
 
 💻 Operating System: 
-Windows                  20 hrs 44 mins      █████████████████████████   100.00 % 
+Windows                  23 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 hrs 33 mins (94.33%)
+⏱ AI Coding Time: 22 hrs 48 mins (95.3%)
 
-✍️ 3,712 lines written by AI, 8 lines written by hand (99.78% AI-written)
+✍️ 3,909 lines written by AI, 7 lines written by hand (99.82% AI-written)
 
-🔤 418,341,354 Input Tokens, 1,706,879 Output Tokens
+🔤 494,120,680 Input Tokens, 2,014,916 Output Tokens
 
-💵 $1693.07 Estimated AI Cost This Week
+💵 $1990.87 Estimated AI Cost This Week
 
-🧠 20 AI Sessions, 330 AI Prompts
+🧠 21 AI Sessions, 383 AI Prompts
 
-GPT                      2,074 lines         █████████████░░░░░░░░░░░░   52.56 % 
-Fable                    1,872 lines         ████████████░░░░░░░░░░░░░   47.44 % 
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Fable                    2,124 lines         ████████████░░░░░░░░░░░░░   49.96 % 
+GPT                      2,090 lines         ████████████░░░░░░░░░░░░░   49.16 % 
+Opus                     37 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.78% of written lines came from AI
-📚 Verbose Prompter — average 3,590 characters per prompt
-🔁 Iterative Prompter — average 16 prompts per session
-🚀 High AI Trust — 0.33% of changed lines were hand-edited
+🤖 AI-Driven — 99.82% of written lines came from AI
+📚 Verbose Prompter — average 3,441 characters per prompt
+🔁 Iterative Prompter — average 18 prompts per session
+🚀 High AI Trust — 0.28% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -142,5 +142,5 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 29/07/2026 16:20:15 UTC
+ Last Updated on 30/07/2026 16:25:21 UTC
 <!--END_SECTION:waka-->
