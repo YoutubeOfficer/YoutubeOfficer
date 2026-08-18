@@ -51,7 +51,7 @@
 
 > 📦 69.9 kB Used in GitHub's Storage 
  > 
-> 🏆 708 Contributions in the Year 2026
+> 🏆 711 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -62,21 +62,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                783 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
-🌆 Daytime                2901 commits        ████████████████░░░░░░░░░   64.42 % 
-🌃 Evening                605 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
-🌙 Night                  214 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
+🌞 Morning                876 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
+🌆 Daytime                3243 commits        ████████████████░░░░░░░░░   64.08 % 
+🌃 Evening                702 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
+🌙 Night                  240 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   758 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
-Tuesday                  891 commits         █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
-Wednesday                788 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
-Thursday                 713 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
-Friday                   920 commits         █████░░░░░░░░░░░░░░░░░░░░   20.43 % 
-Saturday                 238 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
-Sunday                   195 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
+Monday                   842 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
+Tuesday                  1010 commits        █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
+Wednesday                887 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
+Thursday                 803 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
+Friday                   1028 commits        █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
+Saturday                 280 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+Sunday                   211 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
 ```
 
 
@@ -86,50 +86,50 @@ Sunday                   195 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 13 hrs 32 mins      ████████████████░░░░░░░░░   64.23 % 
-TypeScript               4 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   20.87 % 
-Vue                      1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
-Other                    47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
-YAML                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+Markdown                 12 hrs 41 mins      ████████████████░░░░░░░░░   64.74 % 
+TypeScript               4 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   21.11 % 
+Vue                      1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
+Other                    47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+YAML                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
 
 🔥 Editors: 
-Claude Code              16 hrs 30 mins      ████████████████████░░░░░   78.31 % 
-VS Code                  2 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
-Codex Vscode             2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
+Claude Code              15 hrs 18 mins      ████████████████████░░░░░   78.13 % 
+VS Code                  2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
+Codex Vscode             2 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
 
 🐱‍💻 Projects: 
-xconda-fullstack         11 hrs 22 mins      █████████████░░░░░░░░░░░░   53.93 % 
-Xconda                   9 hrs 39 mins       ███████████░░░░░░░░░░░░░░   45.76 % 
-Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+xconda-fullstack         11 hrs 6 mins       ██████████████░░░░░░░░░░░   56.69 % 
+Xconda                   8 hrs 25 mins       ███████████░░░░░░░░░░░░░░   42.98 % 
+Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 
 💻 Operating System: 
-Windows                  21 hrs 5 mins       █████████████████████████   100.00 % 
+Windows                  19 hrs 35 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 hrs 22 mins (96.6%)
+⏱ AI Coding Time: 18 hrs 52 mins (96.36%)
 
-✍️ 4,289 lines written by AI, 1,803 lines written by hand (70.4% AI-written)
+✍️ 4,033 lines written by AI, 1,803 lines written by hand (69.11% AI-written)
 
-🔤 6,740,002 Input Tokens, 1,405,092 Output Tokens
+🔤 6,502,050 Input Tokens, 1,299,900 Output Tokens
 
-💵 $585.83 Estimated AI Cost This Week
+💵 $573.27 Estimated AI Cost This Week
 
-🧠 20 AI Sessions, 185 AI Prompts
+🧠 19 AI Sessions, 176 AI Prompts
 
-Fable                    3,982 lines         ██████████████████████░░░   89.99 % 
-Opus                     365 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
-GPT                      78 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+Fable                    3,982 lines         ████████████████████████░   95.61 % 
+Opus                     105 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+GPT                      78 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 70.4% of written lines came from AI
-📚 Verbose Prompter — average 1,700 characters per prompt
+🤖 AI-Driven — 69.11% of written lines came from AI
+📚 Verbose Prompter — average 1,780 characters per prompt
 🔁 Iterative Prompter — average 9 prompts per session
-🔍 Hands-On Reviewer — 56.9% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 58.38% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -145,5 +145,5 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 16/08/2026 15:06:31 UTC
+ Last Updated on 18/08/2026 15:11:06 UTC
 <!--END_SECTION:waka-->
