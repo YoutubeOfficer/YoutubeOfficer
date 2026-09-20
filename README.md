@@ -86,50 +86,50 @@ Sunday                   243 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 7 hrs 12 mins       ███████████████░░░░░░░░░░   59.02 % 
-Other                    2 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   22.62 % 
-HTML                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
-TypeScript               45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
-Vue                      32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+Markdown                 6 hrs 57 mins       ███████████████░░░░░░░░░░   58.51 % 
+Other                    2 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   23.26 % 
+HTML                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
+TypeScript               41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
+Vue                      31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 6 mins        ██████████░░░░░░░░░░░░░░░   41.82 % 
-VS Code                  3 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   32.21 % 
-Codex Vscode             3 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   25.97 % 
+Claude Code              5 hrs 6 mins        ███████████░░░░░░░░░░░░░░   43.00 % 
+VS Code                  3 hrs 46 mins       ████████░░░░░░░░░░░░░░░░░   31.72 % 
+Codex Vscode             3 hrs               ██████░░░░░░░░░░░░░░░░░░░   25.28 % 
 
 🐱‍💻 Projects: 
-Xconda                   6 hrs 22 mins       █████████████░░░░░░░░░░░░   52.11 % 
-xconda-fullstack         5 hrs 43 mins       ████████████░░░░░░░░░░░░░   46.90 % 
-Unknown Project          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+Xconda                   6 hrs 7 mins        █████████████░░░░░░░░░░░░   51.51 % 
+xconda-fullstack         5 hrs 39 mins       ████████████░░░░░░░░░░░░░   47.57 % 
+Unknown Project          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
 아카이브                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 💻 Operating System: 
-Windows                  12 hrs 13 mins      █████████████████████████   100.00 % 
+Windows                  11 hrs 53 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 19 mins (76.29%)
+⏱ AI Coding Time: 8 hrs 59 mins (75.62%)
 
-✍️ 1,516 lines written by AI, 342 lines written by hand (81.59% AI-written)
+✍️ 1,328 lines written by AI, 342 lines written by hand (79.52% AI-written)
 
-🔤 5,512,466 Input Tokens, 737,353 Output Tokens
+🔤 5,457,421 Input Tokens, 717,743 Output Tokens
 
-💵 $89.02 Estimated AI Cost This Week
+💵 $86.68 Estimated AI Cost This Week
 
-🧠 27 AI Sessions, 148 AI Prompts
+🧠 26 AI Sessions, 145 AI Prompts
 
-GPT                      841 lines           █████████████░░░░░░░░░░░░   53.98 % 
-Fable                    717 lines           ████████████░░░░░░░░░░░░░   46.02 % 
+Fable                    717 lines           █████████████░░░░░░░░░░░░   52.34 % 
+GPT                      653 lines           ████████████░░░░░░░░░░░░░   47.66 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 81.59% of written lines came from AI
-📚 Verbose Prompter — average 5,840 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 18.13% of changed lines were hand-edited
+🤖 AI-Driven — 79.52% of written lines came from AI
+📚 Verbose Prompter — average 5,954 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 20.12% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -145,5 +145,5 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 19/09/2026 15:09:57 UTC
+ Last Updated on 20/09/2026 15:10:05 UTC
 <!--END_SECTION:waka-->
