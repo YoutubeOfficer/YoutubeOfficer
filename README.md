@@ -86,40 +86,40 @@ Sunday                   243 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 2 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   28.03 % 
-Other                    1 hr 57 mins        ███████░░░░░░░░░░░░░░░░░░   26.15 % 
-JavaScript               58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-Python                   51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
-Vue                      47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
+Other                    1 hr 57 mins        ███████░░░░░░░░░░░░░░░░░░   27.60 % 
+Markdown                 1 hr 42 mins        ██████░░░░░░░░░░░░░░░░░░░   24.03 % 
+JavaScript               58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
+Python                   51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+Vue                      47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
 
 🔥 Editors: 
-Codex Vscode             3 hrs 3 mins        ██████████░░░░░░░░░░░░░░░   40.67 % 
-Claude Code              3 hrs 2 mins        ██████████░░░░░░░░░░░░░░░   40.49 % 
-VS Code                  1 hr 24 mins        █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
+Codex Vscode             3 hrs 3 mins        ███████████░░░░░░░░░░░░░░   42.92 % 
+Claude Code              3 hrs 2 mins        ███████████░░░░░░░░░░░░░░   42.74 % 
+VS Code                  1 hr 1 min          ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
 
 🐱‍💻 Projects: 
-Xconda                   3 hrs 54 mins       █████████████░░░░░░░░░░░░   51.96 % 
-xconda-fullstack         3 hrs 13 mins       ███████████░░░░░░░░░░░░░░   42.84 % 
-Unknown Project          17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
-seedance-acf-20260921    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
-logs                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+Xconda                   3 hrs 30 mins       ████████████░░░░░░░░░░░░░   49.29 % 
+xconda-fullstack         3 hrs 13 mins       ███████████░░░░░░░░░░░░░░   45.22 % 
+Unknown Project          17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+seedance-acf-20260921    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+logs                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 
 💻 Operating System: 
-Windows                  7 hrs 30 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 43 mins (89.65%)
+⏱ AI Coding Time: 6 hrs 38 mins (93.41%)
 
 ✍️ 4,586 lines written by AI, 1 lines written by hand (99.98% AI-written)
 
-🔤 2,877,042 Input Tokens, 517,943 Output Tokens
+🔤 2,840,927 Input Tokens, 516,682 Output Tokens
 
 💵 $109.68 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 116 AI Prompts
+🧠 14 AI Sessions, 102 AI Prompts
 
 GPT                      3,762 lines         ████████████████████░░░░░   80.85 % 
 Fable                    891 lines           █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
@@ -128,7 +128,7 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.98% of written lines came from AI
-📚 Verbose Prompter — average 8,157 characters per prompt
+📚 Verbose Prompter — average 8,470 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
 🚀 High AI Trust — 0.04% of changed lines were hand-edited
 ```
@@ -146,5 +146,5 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 24/09/2026 15:12:18 UTC
+ Last Updated on 25/09/2026 15:13:21 UTC
 <!--END_SECTION:waka-->
