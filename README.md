@@ -86,50 +86,48 @@ Sunday                   243 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    1 hr 57 mins        ███████░░░░░░░░░░░░░░░░░░   27.60 % 
-Markdown                 1 hr 42 mins        ██████░░░░░░░░░░░░░░░░░░░   24.03 % 
-JavaScript               58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
-Python                   51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-Vue                      47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
+Markdown                 1 hr 42 mins        ████████░░░░░░░░░░░░░░░░░   33.05 % 
+JavaScript               58 mins             █████░░░░░░░░░░░░░░░░░░░░   18.93 % 
+Python                   51 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
+Vue                      37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
+TypeScript               24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
 
 🔥 Editors: 
-Codex Vscode             3 hrs 3 mins        ███████████░░░░░░░░░░░░░░   42.92 % 
-Claude Code              3 hrs 2 mins        ███████████░░░░░░░░░░░░░░   42.74 % 
-VS Code                  1 hr 1 min          ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
+Codex Vscode             3 hrs 3 mins        ███████████████░░░░░░░░░░   59.01 % 
+Claude Code              1 hr 27 mins        ███████░░░░░░░░░░░░░░░░░░   28.08 % 
+VS Code                  40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
 
 🐱‍💻 Projects: 
-Xconda                   3 hrs 30 mins       ████████████░░░░░░░░░░░░░   49.29 % 
-xconda-fullstack         3 hrs 13 mins       ███████████░░░░░░░░░░░░░░   45.22 % 
-Unknown Project          17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-seedance-acf-20260921    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
-logs                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+Xconda                   2 hrs 51 mins       ██████████████░░░░░░░░░░░   55.40 % 
+xconda-fullstack         1 hr 55 mins        █████████░░░░░░░░░░░░░░░░   37.06 % 
+Unknown Project          17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
+seedance-acf-20260921    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+logs                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 
 💻 Operating System: 
-Windows                  7 hrs 6 mins        █████████████████████████   100.00 % 
+Windows                  5 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 38 mins (93.41%)
+⏱ AI Coding Time: 4 hrs 54 mins (94.94%)
 
-✍️ 4,586 lines written by AI, 1 lines written by hand (99.98% AI-written)
+✍️ 4,582 lines written by AI, 1 lines written by hand (99.98% AI-written)
 
-🔤 2,840,927 Input Tokens, 516,682 Output Tokens
+🔤 2,352,343 Input Tokens, 408,626 Output Tokens
 
-💵 $109.68 Estimated AI Cost This Week
+💵 $98.74 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 102 AI Prompts
+🧠 12 AI Sessions, 67 AI Prompts
 
-GPT                      3,762 lines         ████████████████████░░░░░   80.85 % 
-Fable                    891 lines           █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      3,762 lines         ████████████████████░░░░░   80.92 % 
+Fable                    887 lines           █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.98% of written lines came from AI
-📚 Verbose Prompter — average 8,470 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
+📚 Verbose Prompter — average 12,803 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.04% of changed lines were hand-edited
 ```
 
@@ -146,5 +144,5 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 25/09/2026 15:13:21 UTC
+ Last Updated on 26/09/2026 15:10:49 UTC
 <!--END_SECTION:waka-->
