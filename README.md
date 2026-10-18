@@ -86,38 +86,38 @@ Sunday                   307 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 1 hr 53 mins        ████████░░░░░░░░░░░░░░░░░   33.97 % 
-Python                   1 hr 27 mins        ███████░░░░░░░░░░░░░░░░░░   26.18 % 
-Other                    1 hr 6 mins         █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
-HTML                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
-Vue                      21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+Markdown                 1 hr 53 mins        █████████░░░░░░░░░░░░░░░░   35.60 % 
+Python                   1 hr 27 mins        ███████░░░░░░░░░░░░░░░░░░   27.44 % 
+Other                    54 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
+HTML                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
+Vue                      21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 42 mins       █████████████████░░░░░░░░   66.39 % 
-Codex Vscode             1 hr 32 mins        ███████░░░░░░░░░░░░░░░░░░   27.51 % 
-VS Code                  20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
+Claude Code              3 hrs 42 mins       █████████████████░░░░░░░░   69.59 % 
+Codex Vscode             1 hr 19 mins        ██████░░░░░░░░░░░░░░░░░░░   24.86 % 
+VS Code                  17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
 
 🐱‍💻 Projects: 
-Xconda                   2 hrs 49 mins       █████████████░░░░░░░░░░░░   50.69 % 
-xconda-fullstack         2 hrs 44 mins       ████████████░░░░░░░░░░░░░   49.28 % 
+xconda-fullstack         2 hrs 42 mins       █████████████░░░░░░░░░░░░   50.81 % 
+Xconda                   2 hrs 36 mins       ████████████░░░░░░░░░░░░░   49.16 % 
 seedance_드래프트 모드         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Windows                  5 hrs 34 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 20 mins (95.97%)
+⏱ AI Coding Time: 5 hrs 8 mins (96.62%)
 
 ✍️ 2,820 lines written by AI, 1 lines written by hand (99.96% AI-written)
 
-🔤 4,223,384 Input Tokens, 469,225 Output Tokens
+🔤 4,123,581 Input Tokens, 466,187 Output Tokens
 
-💵 $76.52 Estimated AI Cost This Week
+💵 $76.15 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 76 AI Prompts
+🧠 14 AI Sessions, 71 AI Prompts
 
 Fable                    2,665 lines         ███████████████████████░░   93.71 % 
 GPT                      179 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
@@ -126,7 +126,7 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.96% of written lines came from AI
-📝 Concise Prompter — average 228 characters per prompt
+📝 Concise Prompter — average 212 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.14% of changed lines were hand-edited
 ```
@@ -144,5 +144,5 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 17/10/2026 15:11:08 UTC
+ Last Updated on 18/10/2026 15:11:19 UTC
 <!--END_SECTION:waka-->
