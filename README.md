@@ -41,9 +41,9 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-708%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-709%20hrs%2014%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-433%20hrs%207%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-434%20hrs%205%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -86,62 +86,61 @@ Sunday                   339 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 1 hr 58 mins        ███████████░░░░░░░░░░░░░░   44.17 % 
-Other                    1 hr 16 mins        ███████░░░░░░░░░░░░░░░░░░   28.49 % 
-HTML                     27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
-Vue                      21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
-YAML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+Markdown                 2 hrs 37 mins       ████████████░░░░░░░░░░░░░   47.61 % 
+Other                    1 hr 26 mins        ███████░░░░░░░░░░░░░░░░░░   26.07 % 
+HTML                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
+Vue                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+JavaScript               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 6 mins        ███████████████████████░░   91.78 % 
-Codex Vscode             11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
-VS Code                  10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+Claude Code              4 hrs 49 mins       ██████████████████████░░░   87.47 % 
+Codex Vscode             21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
+VS Code                  20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
 
 🐱‍💻 Projects: 
-xconda-fullstack         3 hrs 21 mins       ███████████████████░░░░░░   74.93 % 
-Xconda                   1 hr 7 mins         ██████░░░░░░░░░░░░░░░░░░░   25.07 % 
+xconda-fullstack         3 hrs 59 mins       ██████████████████░░░░░░░   72.44 % 
+Xconda                   1 hr 31 mins        ███████░░░░░░░░░░░░░░░░░░   27.56 % 
 
 💻 Operating System: 
-Windows                  4 hrs 28 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 24 mins (98.69%)
+⏱ AI Coding Time: 5 hrs 17 mins (96.02%)
 
-✍️ 2,230 lines written by AI, 2 lines written by hand (99.91% AI-written)
+✍️ 2,266 lines written by AI, 3 lines written by hand (99.87% AI-written)
 
-🔤 3,323,170 Input Tokens, 445,895 Output Tokens
+🔤 5,214,261 Input Tokens, 482,697 Output Tokens
 
-💵 $71.84 Estimated AI Cost This Week
+💵 $95.12 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 59 AI Prompts
+🧠 13 AI Sessions, 66 AI Prompts
 
-Fable                    2,166 lines         ████████████████████████░   96.10 % 
-GPT                      88 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+Fable                    2,202 lines         ████████████████████████░   96.16 % 
+GPT                      88 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.91% of written lines came from AI
-📝 Concise Prompter — average 170 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 0.22% of changed lines were hand-edited
+🤖 AI-Driven — 99.87% of written lines came from AI
+📝 Concise Prompter — average 206 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.35% of changed lines were hand-edited
 ```
 
-**I Mostly Code in Python** 
+**I Mostly Code in HTML** 
 
 ```text
-Python                   3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
-JavaScript               3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
-Kotlin                   2 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Jupyter Notebook         1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+HTML                     3 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Python                   3 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+JavaScript               3 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Kotlin                   2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+Jupyter Notebook         1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
 ```
 
 
 
 
- Last Updated on 21/10/2026 15:12:01 UTC
+ Last Updated on 22/10/2026 15:14:13 UTC
 <!--END_SECTION:waka-->
